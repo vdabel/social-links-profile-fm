@@ -53,7 +53,7 @@ body {
 }
 
 .profile-card__name {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: var(--fw-bold);
   color: var(--secondary-color);
   margin-bottom: 10px;
